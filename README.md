@@ -4,4 +4,4 @@ HTML5 Template Design (in progress)
 inspired from [Templated](https://templated.co/spatial)
 <br>
 ## Progress (so far)
-[](header.jpg)
+![](header.JPG | width=150)
