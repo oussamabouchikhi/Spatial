@@ -21,7 +21,7 @@ header {
 header .head .brand {
 	display: inline;
 	font-size: 20px;
-	margin-top: 20px 0 0 10px;
+	margin: 20px 0 0 10px;
 	color: #fff;
 }
 
@@ -79,6 +79,14 @@ header .banner .button {
     padding: 0 2.2em;
     text-align: center;
     text-decoration: none;
+    -webkit-transition: all .3s ease-in-out;
+       -moz-transition: all .3s ease-in-out;
+         -o-transition: all .3s ease-in-out;
+    	    transition: all .3s ease-in-out;
 
 }
 
+header .banner .button:hover {
+	background-color: #ff466e;
+
+}
